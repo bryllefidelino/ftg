@@ -1,9 +1,0 @@
-create table `foodtogodb`.`Courier` (
-   Courier_ID INT primary key auto_increment NOT NULL,
-   Courier_Fname varchar(50) NOT NULL,
-   Courier_Lname varchar(50) NOT NULL,  
-   Courier_Email varchar(50) NOT NULL,
-   Courier_password varchar(15) NOT NULL,  
-   Courier_Number varchar(15) NOT NULL,
-   Courier_Vehicle varchar(15) NOT NULL
-);
